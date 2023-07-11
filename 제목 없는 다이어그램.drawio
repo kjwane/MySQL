@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T03:08:21.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xhZmUFmStdYV-BL663JE" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T03:08:40.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5Jk7phRkweQZwzETjSyj" version="21.6.1" type="github">
   <diagram name="페이지-1" id="MJqBXNljjiqDno5Xd0MY">
     <mxGraphModel dx="1500" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
             <mxPoint x="-9" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-97" value="&lt;u&gt;교수코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dP87Y0F9Zu5sztYK6QaM-97" value="&lt;u&gt;교수코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1010" y="70" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-98" value="교수" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
@@ -225,7 +225,7 @@
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-106" value="교수이름" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1120" y="70" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-109" value="&lt;u&gt;학과코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dP87Y0F9Zu5sztYK6QaM-109" value="&lt;u&gt;학과코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1010" y="190" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-110" value="학과" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
@@ -234,7 +234,7 @@
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-111" value="학과명" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1120" y="190" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-115" value="&lt;u&gt;학번&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dP87Y0F9Zu5sztYK6QaM-115" value="&lt;u&gt;학번&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1010" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-116" value="학생" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
@@ -246,7 +246,7 @@
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-118" value="키" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1230" y="310" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-119" value="&lt;u&gt;과목코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dP87Y0F9Zu5sztYK6QaM-119" value="&lt;u&gt;과목코드&lt;/u&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1010" y="430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-120" value="과목" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
