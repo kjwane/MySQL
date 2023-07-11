@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T03:03:30.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QsPf7D1Omo1wXGu3H-K1" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T03:03:46.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B2TUgsurCqaQ0xP0d9og" version="21.6.1" type="github">
   <diagram name="페이지-1" id="MJqBXNljjiqDno5Xd0MY">
     <mxGraphModel dx="1500" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,12 +266,6 @@
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-129" value="과목코드(OK)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1340" y="70" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-130" value="학번(LCK)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="428" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-131" value="과목코드(ET)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-134" value="과목" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="550" width="110" height="60" as="geometry" />
