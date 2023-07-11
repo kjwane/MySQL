@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T03:08:40.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5Jk7phRkweQZwzETjSyj" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T03:19:16.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oQo2exbiU3RSEb7AR1iR" version="21.6.1" type="github">
   <diagram name="페이지-1" id="MJqBXNljjiqDno5Xd0MY">
     <mxGraphModel dx="1500" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-3" value="교수" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dP87Y0F9Zu5sztYK6QaM-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dP87Y0F9Zu5sztYK6QaM-6" target="dP87Y0F9Zu5sztYK6QaM-34">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-6" value="학과" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="613.5" y="70" width="120" height="60" as="geometry" />
@@ -102,6 +99,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="674" y="140" as="sourcePoint" />
             <mxPoint x="913.5" y="214.5" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dP87Y0F9Zu5sztYK6QaM-38" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=14;rounded=1;" connectable="0" vertex="1" parent="dP87Y0F9Zu5sztYK6QaM-37">
